@@ -1,0 +1,38 @@
+{
+  "name": "atlanticv2-theta",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 3003",
+    "build": "next build && next export",    
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-spring/web": "^9.7.3",
+    "chart.js": "^4.4.0",
+    "leaflet": "^1.9.4",
+    "next": "14.0.3",
+    "react": "^18",
+    "react-chartjs-2": "^5.2.0",
+    "react-countup": "^6.5.0",
+    "react-dom": "^18",
+    "react-icons": "^4.12.0",
+    "react-intersection-observer": "^9.5.3",
+    "react-leaflet": "^4.2.1",
+    "react-responsive": "^9.0.2",
+    "react-use-measure": "^2.1.1",
+    "recharts": "^2.10.2",
+    "sharp": "^0.32.6",
+    "slick-carousel": "^1.8.1",
+    "sweetalert": "^2.1.2",
+    "ts-interface-checker": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "20.10.0",
+    "@types/react": "18.2.38",
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}

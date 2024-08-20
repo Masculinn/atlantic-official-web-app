@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "username":"burak",
+        "password": "9827163852",
+        "properties": [
+            {
+                "name":"Burak Bilen",
+                "title": "Ortak, Varşova",
+                "img": "/atlantic/partners/devburak.jpg",
+                "linkedin": "https://www.linkedin.com/in/burak-bilen-483772227/"
+            }
+        ],
+        "access":"5"
+    },
+    {
+        "id":2,
+        "username":"mukan",
+        "password": "1111112",
+        "properties": [
+            {
+                "name":"Mukan Olcayto",
+                "title": "Ortak, Varşova",
+                "img": "/atlantic/partners/mukan.jpg",
+                "linkedin": "https://www.linkedin.com/in/mukan-olcayto-a2b3811b0/"
+            }
+        ],
+        "access":"4"
+
+    },
+    {
+        "id":3,
+        "username":"eren",
+        "password": "1111113",
+        "properties": [
+            {
+                "name":"Eren Can Sarıcan",
+                "title": "Ortak, Varşova",
+                "img": "/atlantic/partners/eren.jpg",
+                "linkedin": "https://www.linkedin.com/in/eren-can-sar%C4%B1can-9763b420a/"
+            }
+        ],
+        "access":"4"
+    }
+    ,
+    {
+        "id":4,
+        "username":"gokce",
+        "password": "1111114",
+        "properties": [
+            {
+                "name":"Gökçe Bilir",
+                "title": "Ortak, İstanbul",
+                "img": "/atlantic/partners/gokce.jpg",
+                "linkedin": "https://www.linkedin.com/in/g%C3%B6k%C3%A7e-bilir-3397b6bb/"
+            }
+        ],
+        "access":"4"
+    },
+    {
+        "id":5,
+        "username":"ozay",
+        "password": "1111115",
+        "properties": [
+            {
+                "name":"Özay Yılmaz",
+                "title": "Founder",
+                "img": "/atlantic/partners/ozay.png",
+                "linkedin": "https://www.linkedin.com/in/g%C3%B6k%C3%A7e-bilir-3397b6bb/"
+            }
+        ],
+        "access":"4"
+    }
+]
